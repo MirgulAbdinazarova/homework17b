@@ -1,7 +1,5 @@
 package zadacha17a;
 
-import java.util.Arrays;
-
 public class Main {
     public static void main(String[] args) {
             Sheep sheep1=new Sheep(15,2,"female","kara");
@@ -23,7 +21,6 @@ public class Main {
 
             Sheep sheep4=new Sheep(22,2,"female","bahash1");
             Sheep[]sheep2s={sheep4};
-
             Cow cow6=new Cow(123,3,"male","mu");
             Cow[]cows1={cow6};
 

@@ -8,7 +8,7 @@ public  class Farm {
      private Sheep[] sheep;
      private Horse [] horses;
 
-    public Farm(String address,String ownerName,Cow[] cows, Sheep[] sheep, Horse[] horses) {
+    public Farm(String address, String ownerName, Cow[] cows, Sheep[] sheep, Horse[] horses) {
         this.cows = cows;
         this.sheep = sheep;
         this.horses = horses;
